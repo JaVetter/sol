@@ -8,6 +8,6 @@ This blog is mainly about cybersecurity and has an online shopping.
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Authors
-* **Pinkerpirat** - *Initial work* - [..](https://github.com/pinkerpirat)
-* **JaVetter** - *Initial work* - [..](https://github.com/javetter)
+* [**Pinkerpirat**](https://github.com/pinkerpirat)
+* [**JaVetter**](https://github.com/javetter)
 
